@@ -1,0 +1,27 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "this is demo for node.js",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwatchme/nodedemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwatchme/nodedemo/issues"
+  },
+  "homepage": "https://github.com/iwatchme/nodedemo#readme",
+  "dependencies": {
+    "config": "^2.0.1",
+    "debug": "^4.1.0",
+    "express": "^4.16.4",
+    "joi": "^14.0.0",
+    "mongoose": "^5.3.7",
+    "pug": "^2.0.3"
+  }
+}
