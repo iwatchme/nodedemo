@@ -4,6 +4,7 @@ const {
     validate
 } = require('../models/generes')
 const router = express.Router();
+const auth = require('../middleware/auth');
 
 
 
@@ -13,7 +14,7 @@ router.get("/", async (req, res) => {
 });
 
 
-router.post("/", async (req, res) => {
+router.post("/", auth, async (req, res) => {
     const {
         error
     } = validate(req.body);

@@ -7,7 +7,7 @@ const customers = require("./routers/customers")
 const movies = require('./routers/movie');
 const rentals = require('./routers/rental');
 const users = require('./routers/users');
-const auth = require('./routers/auth')
+const auth = require('./routers/auth');
 const app = new Express();
 
 app.set('view engine', 'pug');

@@ -3,12 +3,19 @@ const _ = require('lodash');
 const bcrypt = require('bcrypt')
 const jwt = require('jsonwebtoken');
 const config = require('config');
+const auth = require('../middleware/auth');
 
 const {
     User,
     validate
 } = require('../models/user')
 const router = express.Router();
+
+
+router.get("/me", auth, async (req, res) => {
+    const user = await User.findById(req.user._id).select('-password');
+    res.send(user);
+})
 
 
 
