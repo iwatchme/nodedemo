@@ -32,20 +32,7 @@ router.post("/", async (req, res) => {
     if (!passwordValidate) {
         return res.status(400).send("invalid email or password");
     }
-
-    console.log(config.get("jwtPrivateKey"));
-
-    const token = jwt.sign({
-        _id: user._id
-    }, config.get("jwtPrivateKey"));
-
-    console.log(token);
-
-    const verify = jwt.verify(token, config.get('jwtPrivateKey'));
-
-    console.log(verify);
-    
-
+    const token = user.generateAuthToke();
     res.send(token);
 
 });

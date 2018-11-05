@@ -1,6 +1,9 @@
 const express = require('express');
 const _ = require('lodash');
 const bcrypt = require('bcrypt')
+const jwt = require('jsonwebtoken');
+const config = require('config');
+
 const {
     User,
     validate
@@ -25,14 +28,15 @@ router.post("/", async (req, res) => {
         return res.status(400).send("user has already been registered");
     };
 
-    user = new User(_.pick(req.body, ['name','email','password']));
+    user = new User(_.pick(req.body, ['name', 'email', 'password']));
     const salt = await bcrypt.genSalt(10);
     user.password = await bcrypt.hash(user.password, salt);
 
 
     try {
         await user.save();
-        res.send(_.pick(user, ['_id','name','email']));
+        const token = user.generateAuthToke();
+        res.header("x-auth-token", token).send(_.pick(user, ['_id', 'name', 'email']));
     } catch (error) {
         console.log(error)
     }
