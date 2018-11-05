@@ -26,3 +26,4 @@ const Genere = mongoose.model("Genere", schema)
 
 module.exports.Genere = Genere;
 module.exports.validate = validate;
+module.exports.genereSchema = schema;
