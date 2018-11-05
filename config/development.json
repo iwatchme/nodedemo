@@ -1,0 +1,4 @@
+{
+    "name":"this is a default app",
+    "jwtPrivateKey": "12345678"
+}

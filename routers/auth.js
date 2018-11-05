@@ -1,5 +1,7 @@
 const express = require('express');
-const Joi = require("joi")
+const Joi = require("joi");
+const jwt = require('jsonwebtoken');
+const config = require('config');
 const router = express.Router();
 const {
     User
@@ -31,7 +33,20 @@ router.post("/", async (req, res) => {
         return res.status(400).send("invalid email or password");
     }
 
-    res.send(true);
+    console.log(config.get("jwtPrivateKey"));
+
+    const token = jwt.sign({
+        _id: user._id
+    }, config.get("jwtPrivateKey"));
+
+    console.log(token);
+
+    const verify = jwt.verify(token, config.get('jwtPrivateKey'));
+
+    console.log(verify);
+    
+
+    res.send(token);
 
 });
 
