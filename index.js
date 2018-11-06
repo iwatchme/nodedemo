@@ -1,4 +1,5 @@
 const Express = require("express");
+require('express-async-errors');
 const Joi = require('joi');
 Joi.objectId = require('joi-objectid')(Joi);
 const mongoose = require("mongoose")
@@ -8,7 +9,25 @@ const movies = require('./routers/movie');
 const rentals = require('./routers/rental');
 const users = require('./routers/users');
 const auth = require('./routers/auth');
+const error = require('./middleware/error');
+const {
+    logger
+} = require('./utils/logger');
 const app = new Express();
+
+
+process.on('uncaughtException', (ex) => {
+    logger.error(ex.message, ex);
+    process.exit(1);
+});
+
+process.on('unhandledRejection', (ex) => {
+    logger.error(ex.message, ex);
+    process.exit(1);
+});
+
+
+
 
 app.set('view engine', 'pug');
 app.set('views', './views')
@@ -28,6 +47,8 @@ app.use('/api/rentals', rentals);
 app.use('/api/movies', movies);
 app.use('/api/users', users);
 app.use('/api/auth', auth);
+
+app.use(error);
 
 
 

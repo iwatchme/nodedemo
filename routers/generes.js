@@ -5,10 +5,11 @@ const {
 } = require('../models/generes')
 const router = express.Router();
 const auth = require('../middleware/auth');
+const asyncMiddleware = require('../middleware/async');
 
 
 
-router.get("/", async (req, res) => {
+router.get("/", async(req, res) => {
     const result = await Genere.find().sort('name');
     res.send(result);
 });
@@ -43,8 +44,8 @@ router.put("/:id", async (req, res) => {
 
 
     const result = await Genere.findOneAndUpdate({
-                _id: req.params.id
-            }, {
+        _id: req.params.id
+    }, {
         name: req.body.name
     }, {
         new: true
@@ -56,7 +57,9 @@ router.put("/:id", async (req, res) => {
 });
 
 router.delete("/:id", async (req, res) => {
-    const result = await Genere.findOneAndDelete({"_id": req.params.id});
+    const result = await Genere.findOneAndDelete({
+        "_id": req.params.id
+    });
 
     if (!result) return res.status(404).send("The genere with the given ID is not found");
 
