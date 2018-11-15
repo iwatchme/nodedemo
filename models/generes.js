@@ -6,7 +6,7 @@ const schema = new mongoose.Schema({
     name: {
         type: String,
         required: true,
-        minlength: 3,
+        minlength: 5,
         maxlength: 50
 
     },
@@ -15,7 +15,8 @@ const schema = new mongoose.Schema({
 
 const validate = (genere) => {
     const schema = {
-        name: Joi.string().min(3).max(50).required()
+        name: Joi.string().min(5).max(50).required(),
+        // id: mongoose.Types.ObjectId.isValid(genere.id)
     };
     return Joi.validate(genere, schema);
 }

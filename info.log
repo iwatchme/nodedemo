@@ -1,0 +1,798 @@
+{"message":"succesfully connect mongodb","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly","level":"info"}
+{"message":"mongodb://localhost/vidly","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly","level":"info"}
+{"message":"mongodb://localhost/vidly","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genere\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genere\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genere\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Joi.string(...).min(...).marequired is not a function"}
+{"level":"error","message":"Joi.string(...).min(...).marequired is not a function"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}

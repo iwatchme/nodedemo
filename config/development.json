@@ -1,4 +1,5 @@
 {
     "name":"this is a default app",
-    "jwtPrivateKey": "12345678"
+    "jwtPrivateKey": "12345678", 
+    "db": "mongodb://localhost/vidly_development"
 }

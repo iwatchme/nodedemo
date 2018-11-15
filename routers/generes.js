@@ -5,11 +5,11 @@ const {
 } = require('../models/generes')
 const router = express.Router();
 const auth = require('../middleware/auth');
-const asyncMiddleware = require('../middleware/async');
+const validObjectId = require('../middleware/validObjectId')
 
 
 
-router.get("/", async(req, res) => {
+router.get("/", async (req, res) => {
     const result = await Genere.find().sort('name');
     res.send(result);
 });
@@ -34,7 +34,7 @@ router.post("/", auth, async (req, res) => {
     }
 });
 
-router.put("/:id", async (req, res) => {
+router.put("/:id", validObjectId, async (req, res) => {
     const {
         error
     } = validate(req.body);
@@ -56,7 +56,7 @@ router.put("/:id", async (req, res) => {
     res.status(200).send(result);
 });
 
-router.delete("/:id", async (req, res) => {
+router.delete("/:id", validObjectId, async (req, res) => {
     const result = await Genere.findOneAndDelete({
         "_id": req.params.id
     });
@@ -67,7 +67,7 @@ router.delete("/:id", async (req, res) => {
 
 });
 
-router.get("/:id", async (req, res) => {
+router.get("/:id", validObjectId,async (req, res) => {
 
     const result = await Genere.findById(req.params.id);
 
