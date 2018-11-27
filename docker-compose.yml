@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+  mongo:
+    image: mongo
+    restart: always
+    
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+
+  demo:
+    build: ./
+    ports:
+      - "3000:9000"
+    environment:
+      WAIT_HOSTS: mongo:27017
+    links:
+      - mongo
+    depends_on:
+      - mongo
+# networks:
+#   backend:

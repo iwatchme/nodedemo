@@ -4,7 +4,8 @@
   "description": "this is demo for node.js",
   "main": "App.js",
   "scripts": {
-    "test": "jest --watchAll --verbose --coverage"
+    "test": "jest --watchAll --verbose --coverage",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.11",
+    "moment": "^2.22.2",
     "mongoose": "^5.3.7",
     "pug": "^2.0.3",
     "winston": "^3.1.0"

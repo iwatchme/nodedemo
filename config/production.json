@@ -1,5 +1,5 @@
 {
     "name": "this is product app",
-     "jwtPrivateKey": "82739671yx",
-     "db": "mongodb://localhost/vidly"
+    "jwtPrivateKey": "82739671yx",
+    "db": "mongodb://mongo/demo"
 }

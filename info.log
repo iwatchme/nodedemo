@@ -796,3 +796,9 @@
 {"message":"this is listening 3000","level":"info"}
 {"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
 {"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
+{"message":"mongodb://localhost/vidly_development","level":"info"}
+{"message":"this is listening 3000","level":"info"}
+{"message":"succesfully connect mongodb://localhost/vidly_development","level":"info"}
